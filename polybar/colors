@@ -1,0 +1,18 @@
+## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[color]
+BG = ${xrdb:background:#222}
+BGL = ${xrdb:background:#222}
+BGA = ${xrdb:background:#222}
+FG = ${xrdb:foreground:#222}
+
+pink = ${xrdb:color1:#222}
+magenta = ${xrdb:color2:#222}
+purple = ${xrdb:color3:#222}
+blue = ${xrdb:color4:#222}
+slate = ${xrdb:color5:#222}
+gray = ${xrdb:color6:#222}
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
