@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name:Apa7 basico
+# key: apa
+# --
+
+#+LATEX_HEADER: \affiliation{Universidad Abierta y a Distancia de México}
+#+LATEX_HEADER: \course{Asignatura: $1}
+#+LATEX_HEADER: \professor{Docente: $2 }
+#+LATEX_HEADER: \duedate{$3 - $4 - $5}
+#+LATEX_CLASS: apa7
+#+LANGUAGE: es
+#+LATEX_CLASS_OPTIONS: [a4paper, 12, stu, floatsintext]
+#+LATEX_HEADER: \usepackage[backend=biber, style=apa]{biblatex}
+#+LATEX_HEADER: \addbibresource{referencias.bib}
+#+LATEX_HEADER: \shorttitle{}
