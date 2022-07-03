@@ -1,4 +1,4 @@
-# I hope I do this well, LOL 
+# It doesn't work anymore. Please don't use it. I'll change the whole information latter. 
 
 **Linux distro**: arcolinuxD with BSPWM preconfigured. 
 
